@@ -38,4 +38,4 @@ class DataFrameOperations:
 if __name__ == "__main__":
     df_opt = DataFrameOperations(EXPECTED_FILE)
     df = df_opt.fill_nan_with_mean()
-    df.to_csv("new_household_power_consumption.txt")
+    df.to_csv("household_power_consumption.txt")

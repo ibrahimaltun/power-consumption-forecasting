@@ -62,6 +62,6 @@ This notebook approaches time series forecasting in a number of steps:
 
 ### USAGE
 
-1. unzip household_power_consumption.zip
+1. unzip data.zip
 2. run preprocessing_methods.py
 3. execute cell-by-cell in python notebook
